@@ -9,7 +9,7 @@
    "Trim Video",
    "without downloading the entire file"
   ],
-  "repository": "https://github.com/TGExplore/Screenshot-Bot",
+  "repository": "https://github.com/puishere88/Screenshot-Bot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -40,7 +40,7 @@
       "value": ""
     },
     "HOST": {
-      "description": "Public URL of streaming service (https://github.com/TGExplore/musical-waddle)",
+      "description": "Public URL of streaming service (https://github.com/puishere88/musical-waddle)",
       "value": ""
     },
     "MAX_PROCESSES_PER_USER": {
